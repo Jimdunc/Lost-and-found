@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Frontend App
 
 This project is a simple web application that demonstrates the use of HTML, CSS, and JavaScript for frontend development.
@@ -47,3 +48,6 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License.
+=======
+# Lost-and-found
+>>>>>>> b18a6adac08fbe21c0a068b75ac9c911b1d7d5c1
