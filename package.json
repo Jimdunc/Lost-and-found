@@ -1,0 +1,16 @@
+{
+  "name": "my-frontend-app",
+  "version": "1.0.0",
+  "description": "A simple frontend application using HTML, CSS, and JavaScript.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
